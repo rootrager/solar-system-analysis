@@ -2,7 +2,7 @@
 
 Alright, buckle up, you fearless space traveler! You’ve just built a shiny spacecraft called **Star Wanderer**, and it’s ready to take you on the ride of a lifetime through the Solar System. I’m your guide, here to spin a tale about our cosmic neighborhood in a way that feels like we’re chatting over coffee—simple, vivid, and full of wonder. This story is your roadmap, packed with the essentials about the Solar System, its quirky characters, and where we fit in the grand galactic picture. It’s the kind of guide you’d want for diving into science videos or articles. So, let’s fire up the engines and blast off! 🚀
 
-![20250511_1149_Futuristic Fantasy Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png](20250511_1156_Futuristic Spaceship Launch_remix_01jtz75b71eg3b2pw2embk8brp.png)
+![20250511_1149_Futuristic Fantasy Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1149_Futuristic%20Fantasy%20Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png)
 ## First Stop: Earth, Our Little Blue Haven
 
 The **Star Wanderer** roars into the sky, and Earth shrinks to a glowing blue marble below. Our home, the third rock from the Sun, sits about 93 million miles (or one Astronomical Unit) away from its star. It’s in this sweet spot—not too hot, not too chilly—called the **habitable zone**, where oceans sparkle and life thrives. Earth’s atmosphere, a cozy blanket of nitrogen and oxygen, shields us from the Sun’s harsh rays. But as you glance back, it hits you: Earth’s just a tiny dot in this massive cosmic playground.
