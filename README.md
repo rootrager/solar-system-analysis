@@ -23,7 +23,7 @@ The **Star Wanderer** cruises through the inner Solar System, where the rocky pl
 - **Mercury, the Speedy Rascal:** Closest to the Sun at 36 million miles, Mercury’s a pint-sized, pockmarked world. Days hit a blistering 430°C, while nights plummet to -180°C. It races around the Sun in just 88 Earth days, like it’s late for a cosmic party.
 - **Venus, the Sizzling Diva:** Venus is Earth’s twin in size but a total nightmare. Its thick, toxic atmosphere of carbon dioxide and sulfuric acid clouds traps heat, cranking temps to 465°C. The air pressure? Like being crushed 900 meters underwater. Your ship’s gotta be tough to visit this one.
 - **Mars, the Red Dreamer:** The rusty red planet, colored by iron oxide, is a adventurer’s paradise with giant canyons (Valles Marineris) and a volcano (Olympus Mons) three times taller than Everest. Mars had rivers long ago, and who knows? Tiny microbes might still be hiding under its dusty surface.
-- ![20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png](./assets/20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png)
+- ![20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png](./20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png)
 
 **Pro Tip:** Mars is begging for a pit stop. Its red soil is perfect for snapping selfies, and you could poke around for signs of ancient life.
 
