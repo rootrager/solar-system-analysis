@@ -2,7 +2,7 @@
 
 Alright, buckle up, you fearless space traveler! You’ve just built a shiny spacecraft called **Star Wanderer**, and it’s ready to take you on the ride of a lifetime through the Solar System. I’m your guide, here to spin a tale about our cosmic neighborhood in a way that feels like we’re chatting over coffee—simple, vivid, and full of wonder. This story is your roadmap, packed with the essentials about the Solar System, its quirky characters, and where we fit in the grand galactic picture. It’s the kind of guide you’d want for diving into science videos or articles. So, let’s fire up the engines and blast off! 🚀
 
-![20250511_1149_Futuristic Fantasy Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1149_Futuristic%20Fantasy%20Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png)
+![20250511_1149_Futuristic Fantasy Spaceship_simple_compose_01jtz6rqedf4n9xfa1mpn8kwzk.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1156_Futuristic%20Spaceship%20Launch_remix_01jtz75b71eg3b2pw2embk8brp.png)
 ## First Stop: Earth, Our Little Blue Haven
 
 The **Star Wanderer** roars into the sky, and Earth shrinks to a glowing blue marble below. Our home, the third rock from the Sun, sits about 93 million miles (or one Astronomical Unit) away from its star. It’s in this sweet spot—not too hot, not too chilly—called the **habitable zone**, where oceans sparkle and life thrives. Earth’s atmosphere, a cozy blanket of nitrogen and oxygen, shields us from the Sun’s harsh rays. But as you glance back, it hits you: Earth’s just a tiny dot in this massive cosmic playground.
@@ -12,7 +12,7 @@ The **Star Wanderer** roars into the sky, and Earth shrinks to a glowing blue ma
 ## The Big Boss: The Sun, Our Fiery Star
 
 Your ship zips toward the heart of the Solar System: the **Sun**, a blazing giant that hogs 99.86% of the system’s mass. This glowing beast is so huge you could stuff 1.3 million Earths inside it! It’s a middle-of-the-road star, not too flashy compared to others in the galaxy, but it’s our everything. Deep in its core, hydrogen smashes into helium, pumping out the light and heat that keep Earth alive. The Sun’s gravity is like a cosmic leash, keeping planets, moons, and asteroids in line.
-![20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1156_Futuristic%20Spaceship%20Launch_remix_01jtz75b71eg3b2pw2embk8brp.png)
+![20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1200_Star%20Wanderer%20Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png)
 
 **Pro Tip:** Don’t get too cozy with the Sun! Its surface sizzles at 5,500°C, and the core’s a scorching 15 million°C. Your ship better have some serious heat shields.
 
@@ -23,7 +23,7 @@ The **Star Wanderer** cruises through the inner Solar System, where the rocky pl
 - **Mercury, the Speedy Rascal:** Closest to the Sun at 36 million miles, Mercury’s a pint-sized, pockmarked world. Days hit a blistering 430°C, while nights plummet to -180°C. It races around the Sun in just 88 Earth days, like it’s late for a cosmic party.
 - **Venus, the Sizzling Diva:** Venus is Earth’s twin in size but a total nightmare. Its thick, toxic atmosphere of carbon dioxide and sulfuric acid clouds traps heat, cranking temps to 465°C. The air pressure? Like being crushed 900 meters underwater. Your ship’s gotta be tough to visit this one.
 - **Mars, the Red Dreamer:** The rusty red planet, colored by iron oxide, is a adventurer’s paradise with giant canyons (Valles Marineris) and a volcano (Olympus Mons) three times taller than Everest. Mars had rivers long ago, and who knows? Tiny microbes might still be hiding under its dusty surface.
-- ![20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1200_Star%20Wanderer%20Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png)
+- ![20250511_1203_Interplanetary Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1203_Interplanetary%20Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png)
 
 **Pro Tip:** Mars is begging for a pit stop. Its red soil is perfect for snapping selfies, and you could poke around for signs of ancient life.
 
@@ -34,7 +34,7 @@ Your ship sails past the **Asteroid Belt**, a rocky junkyard between Mars and Ju
 - **Jupiter, the Jolly Giant:** Jupiter’s a beast, 143,000 km wide, big enough for 1,300 Earths. It’s a swirling ball of hydrogen and helium with a monster storm, the Great Red Spot, twice Earth’s size. With 95 moons, including **Europa**—an icy world with a hidden ocean that might harbor life—Jupiter’s like a mini Solar System.
 - **Saturn, the Ringed Beauty:** Saturn’s iconic rings, made of ice and rock, glitter like a cosmic tiara. This gas giant has 145 moons, including **Titan**, a moon bigger than Mercury with methane lakes and a thicker atmosphere than Earth’s. Fun fact: Saturn’s so light it could float in a giant bathtub!
 - **Uranus and Neptune, the Icy Rebels:** These far-out ice giants glow with methane-tinted atmospheres. Uranus, a pale turquoise, rolls on its side like a cosmic oddball. Neptune, deep blue, has winds tearing through at 2,400 km/h—faster than anywhere else in the Solar System.
-- ![20250511_1211_Jovian Planetary Alignment_remix_01jtz821pter7tva49x27je76y.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1203_Interplanetary%20Voyage_remix_01jtz7hsxbfrbvcfzv04dn8y5v.png)
+- ![20250511_1211_Jovian Planetary Alignment_remix_01jtz821pter7tva49x27je76y.png](https://github.com/rootrager/solar-system-analysis/blob/main/20250511_1211_Jovian%20Planetary%20Alignment_remix_01jtz821pter7tva49x27je76y.png)
 
 **Pro Tip:** Craving adventure? Jupiter and Saturn’s icy moons, like Europa or Enceladus, are your best bet for finding alien critters. Just watch out for those wild gas storms!
 
