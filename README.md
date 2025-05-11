@@ -12,7 +12,7 @@ The **Star Wanderer** roars into the sky, and Earth shrinks to a glowing blue ma
 ## The Big Boss: The Sun, Our Fiery Star
 
 Your ship zips toward the heart of the Solar System: the **Sun**, a blazing giant that hogs 99.86% of the system’s mass. This glowing beast is so huge you could stuff 1.3 million Earths inside it! It’s a middle-of-the-road star, not too flashy compared to others in the galaxy, but it’s our everything. Deep in its core, hydrogen smashes into helium, pumping out the light and heat that keep Earth alive. The Sun’s gravity is like a cosmic leash, keeping planets, moons, and asteroids in line.
-![20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png](./assets/20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png)
+![20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png](20250511_1200_Star Wanderer Exploration_remix_01jtz7cdqkf40rptmch06a9vy1.png)
 
 **Pro Tip:** Don’t get too cozy with the Sun! Its surface sizzles at 5,500°C, and the core’s a scorching 15 million°C. Your ship better have some serious heat shields.
 
